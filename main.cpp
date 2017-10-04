@@ -10,6 +10,7 @@ int main(int argc, char** argv) {
 	
 	std::cout << "hello github" <<std::endl;
 	std::cout << "hello ranranSama" <<std::endl;
+	std::cout << "hello dashu" << std::endl;
 
 
 	return 0;
